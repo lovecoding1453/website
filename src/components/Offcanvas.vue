@@ -18,10 +18,10 @@
                 <div class="modal-links">
                     <ul>
                         <li data-bs-dismiss="modal" aria-label="Close">
-                            <a href="#about">beni mutlu et</a>
+                            <a href="/happy-me">beni mutlu et</a>
                         </li>
                         <li data-bs-dismiss="modal" aria-label="Close">
-                            <a id="link" href="/#skils">galeri</a>
+                            <a id="link" href="/#skils">biraz müzik</a>
                         </li>
                         <li data-bs-dismiss="modal" aria-label="Close">
                             <a id="link" href="/#works">ben kimim?</a>

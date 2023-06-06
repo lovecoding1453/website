@@ -19,10 +19,10 @@
             <li id="links">
                 <ul>
                     <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2">
-                        <a href="/#about">beni mutlu et</a>
+                        <a href="/happy-me">beni mutlu et</a>
                     </li>
                     <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3">
-                        <a href="/#skils">galeri</a>
+                        <a href="/#skils">biraz müzik</a>
                     </li>
                     <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4">
                         <a href="/#works">ben kimim?</a>

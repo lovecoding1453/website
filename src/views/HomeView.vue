@@ -11,7 +11,13 @@
             </div>
         </div>
         <div id="text">
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae aperiam iure blanditiis nostrum maxime veritatis laborum consequuntur totam doloremque corporis, ea, dolor cumque dolore harum unde quisquam tempore architecto sit itaque tempora quae illum autem? Veritatis aut iusto itaque veniam laborum dolorem perferendis cumque sapiente cum voluptatem similique, quibusdam molestiae, tempore saepe deleniti. Provident nemo cum, doloremque, eius, commodi ipsa pariatur reiciendis sunt quos esse error adipisci. Nisi quibusdam commodi alias in. Temporibus, exercitationem? Obcaecati illum quibusdam aspernatur debitis incidunt labore maiores doloribus voluptatum commodi eaque at, itaque aut cumque dolore, nemo, illo pariatur a vel sint iure tenetur laboriosam!</p>
+            <p>
+                Ben çok tatlı, şeker, iyi yürekli ve bir o kadar piç ve şerefsiz bir kişiyim. Tamamen mükemmelim diyemem çünkü benim de bazı hatalarım var. Mesela değmeyecek insanlara fazla değer veriyorum ve bununla beraber bazı saçma şeyleri kafama takıyorum, tabi bu tamamen iyi niyetli olmamdan dolayı kaynaklanıyor. kendimi çok seviyorum ve bununla berarber bazı hayattan bezmiş insanları bile keyiflendirir ve onların tebessüm etmesini sağlarım. En basitinden bu web siteyi yazan şahsı o kadar mutlu ettim ki kendini ilk defa değerli hissetti fukaram, ahahahah...
+            </p>
+            <p>
+                Müzik dinlemeyi, gıybet yapmayı, gülmeyi çok severim bunları hiçbirşeye değişmem. İnsanları güldürmek en büyük hobimdir. Ha bir de neden yazıldığını bilmiyorum ama Koç burcuyum bilginiz olsun 😉 Yanisi ben her zaman haklıyımdır ahahahah.
+            </p>
+            <p>Gezmeyi sevdiğim kadar insanlar da beni çok sever. Hatta bir şahsın nikotini haline gelmiş bulunmaktayım🤪 Kısacası bağımlılık yapabilirim bunu bilerek yanıma gelin...</p>
         </div>
     </div>
 </template>
