@@ -7,12 +7,12 @@
     <nav>
         <ul>
             <li id="head">
-                <a  id="osmanbaycansolakeyhan">
+                <a href="/" id="aycansolak">
                     <h3>
                         aycan<span>solak</span> 
                     </h3>
                 </a>
-                <a href="" id="icon-power">
+                <a href="/" id="icon-power">
                     <i class="bi bi-balloon-heart-fill"></i>
                 </a>
             </li>
@@ -21,11 +21,8 @@
                     <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2">
                         <a href="/happy-me">beni mutlu et</a>
                     </li>
-                    <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3">
-                        <a href="/#skils">biraz müzik</a>
-                    </li>
                     <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4">
-                        <a href="/#works">ben kimim?</a>
+                        <a href="/who-am-i">ben kimim?</a>
                     </li>
                 </ul>
             </li>

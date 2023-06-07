@@ -27,7 +27,7 @@
         'Bilim adamları Marsta hayat buluyor ben de sende.',
         'Canım arkadaşım sesin çok güzel sen buralarda boşa harcanıyorsun hemen git başka yerlerde söyle şarkını.',
         'Fırından yeni çıkmış ekmek gibi tazesin ama çok sıcaksın dokunamıyorum.',
-        'Tam ekran yapılınca takılmayan youtube videosu gibisin sevgilim.',
+        'Tam ekran yapılınca takılmayan youtube videosu gibisin lan.',
         'Kankanın karekökünün köküsün sen.',
         'Sen yoksun diye yanımda 24 saat uyumak istiyorum.',
         'Sen sıradan bir kız değilsin, romantik bir filmdeki küçük ve dokunaklı bir kadın kahraman gibisin.',
@@ -48,7 +48,14 @@
         'Çok güzel bir şerefsizsin ahahaha',
         'Kalbini kıracak puştlara açma, çünkü benim de canım yanar.',
         'Güneş mi açtı, sen mi gülümsedin?',
-        'Birlikteyken hiç komik olmayan şeylere bile saatlerce gülebiliyoruz.'
+        'Birlikteyken hiç komik olmayan şeylere bile saatlerce gülebiliyoruz.',
+        'Ömer gel gel, gel yanıma',
+        'Araba orada',
+        'Sen bir Komplecisin',
+        'Yak bir sigara yak kendine gel amk ne tıklıyon yüz defa',
+        'La kırdın kırdın yeter amk',
+        'Git Osmana bulaş benden ne istiyon amk'
+        
     ]
 
     function getCompliment() {

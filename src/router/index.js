@@ -1,6 +1,9 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import HappyMe from '../views/HappyMe.vue'
+import WhoAmI from '../views/WhoAmI.vue'
+import NotFound from '../views/NotFound.vue'
+
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -16,6 +19,15 @@ const router = createRouter({
       name: 'happy-me',
       component: HappyMe
     },
+    {
+      path: '/who-am-i',
+      name: 'who-am-i',
+      component: WhoAmI
+    },
+    {
+      path: '/:notFound',
+      component: NotFound
+    }
   ]
 })
 

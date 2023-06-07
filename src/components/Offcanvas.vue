@@ -21,10 +21,7 @@
                             <a href="/happy-me">beni mutlu et</a>
                         </li>
                         <li data-bs-dismiss="modal" aria-label="Close">
-                            <a id="link" href="/#skils">biraz müzik</a>
-                        </li>
-                        <li data-bs-dismiss="modal" aria-label="Close">
-                            <a id="link" href="/#works">ben kimim?</a>
+                            <a id="link" href="/who-am-i">ben kimim?</a>
                         </li>
                     </ul>                
                 </div>
